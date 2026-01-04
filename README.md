@@ -20,3 +20,7 @@ inaccuraccy of the servomotors and electromagnetic interferences.
 
 I STRONGLY suggest that you reduce as much as possible the surface of the weighting pan and cover it with a box to ensure no air flow.
 
+# other
+
+i've provided the original 3D fusion 360 files and the splices with whom i made the structure, beware i had to modify it with other pieces in my workshop.
+
